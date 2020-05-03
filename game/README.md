@@ -1,16 +1,16 @@
-# game
+Why its related?
 
-A new Flutter project.
+It is a mobile - based game created using Flutter
 
-## Getting Started
+It is a multiplayer game,In a room a group of players are gathered.
 
-This project is a starting point for a Flutter application.
+Player A chooses a word and other players select word too.
+Other Players have have to respond why theirs word is related to the
+word given by player A.
 
-A few resources to get you started if this is your first Flutter project:
+Every Player gets a chance to choose a word.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Number of rounds depends on Number of Players.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The game continues till every player has got chance to select word.
+
