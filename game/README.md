@@ -1,3 +1,4 @@
+------------------------------------------------------------------
 Why its related?
 
 It is a mobile - based game created using Flutter
@@ -13,4 +14,4 @@ Every Player gets a chance to choose a word.
 Number of rounds depends on Number of Players.
 
 The game continues till every player has got chance to select word.
-
+------------------------------------------------------------------
